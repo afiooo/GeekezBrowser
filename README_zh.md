@@ -79,10 +79,13 @@
 ```bash
 # Windows
 npm run build:win
+```
 
+```bash
 # macOS
 npm run build:mac
-
+```
+```bash
 # Linux
 npm run build:linux
 ```
